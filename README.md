@@ -4,7 +4,7 @@
 ## 📌 Operações Morfológicas
 
 1. Imagens 
-![ImagensOriginal](![image](https://github.com/user-attachments/assets/e1bc7c82-f8a4-4aed-9063-18778a29e768))
+![image](https://github.com/user-attachments/assets/e1bc7c82-f8a4-4aed-9063-18778a29e768)
 
 
 ### ✅ Imagem Final Destacada  
